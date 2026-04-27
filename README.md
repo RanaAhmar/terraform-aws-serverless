@@ -1,3 +1,5 @@
+[![Stars](https://img.shields.io/github/stars/RanaAhmar/terraform-aws-serverless?style=for-the-badge)](https://github.com/RanaAhmar/terraform-aws-serverless/stargazers) [![Issues](https://img.shields.io/github/issues/RanaAhmar/terraform-aws-serverless?style=for-the-badge)](https://github.com/RanaAhmar/terraform-aws-serverless/issues) [![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://github.com/RanaAhmar/terraform-aws-serverless/blob/main/LICENSE)
+
 # ☁️ Terraform AWS Serverless
 
 Battle-tested Terraform modules for AWS Lambda, API Gateway, and DynamoDB. Infrastructure as Code made simple by **Ahmar Hussain** (**Stackaura**).
@@ -35,6 +37,13 @@ If you found this tool useful, check out our other high-performance web utilitie
 ---
 
 
+---
+### 🌟 Part of the [Stackaura](https://github.com/RanaAhmar) Ecosystem
+*Empowering developers with automated tools and high-performance solutions.*
 
+**Explore more:**
+- 🚀 [All Projects](https://github.com/RanaAhmar?tab=repositories)
+- 🛠️ [Daily Coding Tips](https://github.com/RanaAhmar/daily-coding-tips)
+- 📊 [Profile Dashboard](https://github.com/RanaAhmar/RanaAhmar)
 
-
+*If you find this project useful, please consider giving it a star! ⭐*
